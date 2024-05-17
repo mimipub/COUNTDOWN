@@ -1,6 +1,4 @@
-## Projeto Contagem Regressiva com Javascript
-
-# CounDown
+# Projeto Contagem Regressiva com Javascript
 
 Count-Down simples criada com html e css e Javascript como interatividade
 
